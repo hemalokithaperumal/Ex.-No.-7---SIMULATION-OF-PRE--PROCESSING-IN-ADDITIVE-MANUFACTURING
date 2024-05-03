@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![output 6 1](https://github.com/hemalokithaperumal/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144925008/50dcfd67-7add-444b-9c9c-0705a8b00984)
+
+### Name: HEMA LOKITHA P
+### Register Number:212223110014
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
